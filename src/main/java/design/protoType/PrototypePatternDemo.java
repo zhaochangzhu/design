@@ -5,7 +5,7 @@ import design.protoType.impl.Shape;
 
 /**
  * @program: design
- * @description: xx
+ * @description: 原型模式
  * @author: MrZhao
  * @time: 2021/11/2 17:27
  */
